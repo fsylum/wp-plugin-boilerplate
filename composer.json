@@ -1,0 +1,16 @@
+{
+    "name": "fsylum/wp-plugin-boilerplate",
+    "description": "Starter plugin for WordPress with Laravel Mix integration",
+    "authors": [
+        {
+            "name": "Firdaus Zahari",
+            "homepage": "https://fsylum.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fsylum\\Plugin\\": "src/"
+        }
+    },
+    "require": {}
+}
